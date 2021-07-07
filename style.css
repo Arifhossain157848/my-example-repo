@@ -1,0 +1,110 @@
+h1{
+    font-size: 40px;
+}
+ body{
+    font-family: font-family: 'Poppins', sans-serif;;
+ }
+ .red-clr{
+     color:bl;
+ }
+ .first-color{
+     color:red;
+      
+ }
+ section{
+     display: flex;
+ }
+ 
+ .keep-far{
+     width: 60%;
+     padding-left:5%;
+     padding-right: 5%;
+ }
+     
+.press-it{
+    color:seashell;
+    background-color:red;
+    text-decoration: none;
+    margin: 2px;
+    padding: 7px 20px;
+    width: 90px;
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    background-image: linear-gradient(white orange);
+    
+}
+.back-image{
+    background-image: url(food-network/images/shapes/welpapr.webp);
+    
+     
+
+}
+ .behind-photo{
+     background-image: url(food-network/images/shapes/background.jpg);
+ }     
+ 
+.set-fifty{
+    color:seashell;
+    background-color:red;
+    text-decoration: none;
+    margin: 50x;
+    padding: 9px 20px;
+    width: 20px;
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    background-image: linear-gradient(white orange);
+}
+.first-middle{
+  margin-left: 35px;
+  margin: right 180px;
+  color: red;
+  height: 50px;
+  text-align: center;
+   }
+
+.recepe-color{
+    text-align-last: center;
+    text-size-adjust: 10px;
+    text-align: center;
+    color:blue;
+    box-shadow: gray 2px 2px 5px ;
+    box-sizing:unset;
+    box-decoration-break:slice;
+    -moz-text-size-adjust: auto;
+    margin-bottom: auto;
+    -moz-box-direction: normal;
+    -moz-box-sizing: padding-box;
+  
+
+}
+.white-color{
+    color: whitesmoke;
+    text-align-last: center;
+ 
+  .short-from{
+     border-radius:white;
+     border: solid 5px;
+     text-align-last:center;
+    text-align-last: center;
+    text-size-adjust: 05x;
+     text-align-last: center;
+    box-shadow: gray 2px 2px 5px ;
+    border-width: 10px;
+    border height: 10px;
+    border :right 10px;
+   border :left 20px;
+}
+ 
+
+     
+ .black-clr{
+     color: white;
+     background-color: black;
+ border: solid; 15px 
+margin-left: 10px;}
+marginright:10px
+height: 80px;
+ width: 400px;
+    font-size:22px;;
